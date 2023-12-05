@@ -10,9 +10,12 @@
   
 | ##    |                                                    Mi Solución                                                   |                                        Enunciado del reto                                    |
 | :---: |:----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
-|  01   | [ 🎁 Primer regalo repetido ](https://github.com/mike-ssj/adventjs-2023/01-primer-regalo-repetido)               |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/1)  |
-|  02   | [ 🏭 Ponemos en marcha la fábrica ](https://github.com/mike-ssj/adventjs-2023/02-ponemos-en-marcha-la-fabrica)   |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/2)  |
-|  03   | [ 😏 El elso travieso ](https://github.com/mike-ssj/adventjs-2023/03-el-elfo-travieso)                           |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/3)  |
-|  03   | [  😵‍💫 Dale la vuelta a los paréntesis ](https://github.com/mike-ssj/adventjs-2023/03-el-elfo-travieso)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/4)  |
+|  01   | [ 🎁 Primer regalo repetido ](https://github.com/mike-ssj/adventjs-2023/01-primer-regalo-repetido.js)               |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/1)  |
+|  02   | [ 🏭 Ponemos en marcha la fábrica ](https://github.com/mike-ssj/adventjs-2023/02-ponemos-en-marcha-la-fabrica.js)   |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/2)  |
+|  03   | [ 😏 El elso travieso ](https://github.com/mike-ssj/adventjs-2023/03-el-elfo-travieso.js)                           |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/3)  |
+|  03   | [  😵‍💫 Dale la vuelta a los paréntesis ](https://github.com/mike-ssj/adventjs-2023/04-dale-la-vuelta-a-los-parentesis.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/4)  |
+|  03   | [ 🛷 El CyberTruck de Santa ](https://github.com/mike-ssj/adventjs-2023/05-el-cybertruck-de-santa.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/)  |
+
+
 </p>
 
