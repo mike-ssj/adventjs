@@ -20,12 +20,12 @@ console.log(result.length, result);
 function cyberReindeer(road, time) {
     let output = [road]
 
-    for (let i = 0; i < (time-1); i++) {
+    for (let i = 1; i < time; i++) {
         
         let newRoad = output[output.length - 1].split('')
         let sIndex = newRoad.indexOf('S')
         
-        if (i === 4) {
+        if (i === 5) {
             newRoad = newRoad.join('').replace(/["|"]/g, '*').split('')
         }
 
