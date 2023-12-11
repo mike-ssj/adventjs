@@ -14,7 +14,9 @@
 |  02   | [ 🏭 Ponemos en marcha la fábrica ](https://github.com/mike-ssj/adventjs-2023/blob/main/02-ponemos-en-marcha-la-fabrica.js)   |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/2)  |
 |  03   | [ 😏 El elso travieso ](https://github.com/mike-ssj/adventjs-2023/blob/main/03-el-elfo-travieso.js)                           |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/3)  |
 |  04   | [  😵‍💫 Dale la vuelta a los paréntesis ](https://github.com/mike-ssj/adventjs-2023/blob/main/04-dale-la-vuelta-a-los-parentesis.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/4)  |
-|  05   | [ 🛷 El CyberTruck de Santa ](https://github.com/mike-ssj/adventjs-2023/blob/main/05-el-cybertruck-de-santa.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/)  |
+|  05   | [ 🛷 El CyberTruck de Santa ](https://github.com/mike-ssj/adventjs-2023/blob/main/05-el-cybertruck-de-santa.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/5)  |
+|  06   | [ 🦌 Los renos a prueba ](https://github.com/mike-ssj/adventjs-2023/blob/main/06-los-renos-a-prueba.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/6)  |
+|  07   | [ 🛷 El CyberTruck de Santa ](https://github.com/mike-ssj/adventjs-2023/blob/main/07-las-cajas-en-3d.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/7)  |
 
 
 </p>
