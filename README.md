@@ -17,6 +17,7 @@
 |  05   | [ 🛷 El CyberTruck de Santa ](https://github.com/mike-ssj/adventjs-2023/blob/main/05-el-cybertruck-de-santa.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/5)  |
 |  06   | [ 🦌 Los renos a prueba ](https://github.com/mike-ssj/adventjs-2023/blob/main/06-los-renos-a-prueba.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/6)  |
 |  07   | [ 📦 Las cajas en 3D ](https://github.com/mike-ssj/adventjs-2023/blob/main/07-las-cajas-en-3d.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/7)  |
+|  08   | [ 🏬 Ordenando el almacén ](https://github.com/mike-ssj/adventjs-2023/blob/main/08-ordenando-el-almacen.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/8)  |
 
 
 </p>
