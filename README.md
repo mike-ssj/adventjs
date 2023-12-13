@@ -22,6 +22,7 @@
 |  10   | [ 🎄 Crea tu propio árbol de navidad ](https://github.com/mike-ssj/adventjs-2023/blob/main/10-crea-tu-propio-arbol-de-navidad.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/10)  |
 |  11   | [ 📖 Los elfos estudiosos ](https://github.com/mike-ssj/adventjs-2023/blob/main/11-los-elfos-estudiosos.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/11)  |
 |  12   | [ 📸 ¿Es una copia válida? ](https://github.com/mike-ssj/adventjs-2023/blob/main/12-es-una-copia-valida.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/12)  |
+|  13   | [ ⌚️ Calculando el tiempo ](https://github.com/mike-ssj/adventjs-2023/blob/main/13-calculando-el-tiempo.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/13)  |
 
 
 </p>
