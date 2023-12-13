@@ -20,6 +20,7 @@
 |  08   | [ 🏬 Ordenando el almacén ](https://github.com/mike-ssj/adventjs-2023/blob/main/08-ordenando-el-almacen.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/8)  |
 |  09   | [ 🚦 Alterna las luces ](https://github.com/mike-ssj/adventjs-2023/blob/main/09-alterna-las-luces.js)         |  [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/9)  |
 |  10   | [ 🎄 Crea tu propio árbol de navidad ](https://github.com/mike-ssj/adventjs-2023/blob/main/10-crea-tu-propio-arbol-de-navidad.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/10)  |
+|  11   | [ 📖 Los elfos estudiosos ](https://github.com/mike-ssj/adventjs-2023/blob/main/11-los-elfos-estudiosos.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/11)  |
 
 
 </p>
