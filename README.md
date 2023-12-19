@@ -24,7 +24,8 @@
 |  12   | [ 📸 ¿Es una copia válida? ](https://github.com/mike-ssj/adventjs-2023/blob/main/12-es-una-copia-valida.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/12)  |
 |  13   | [ ⌚️ Calculando el tiempo ](https://github.com/mike-ssj/adventjs-2023/blob/main/13-calculando-el-tiempo.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/13)  |
 |  14   | [ 🚨 Evita la alarma ](https://github.com/mike-ssj/adventjs-2023/blob/main/14-evita-la-alarma.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/14)  |
-|  14   | [ ↔️ Robot autónomo ](https://github.com/mike-ssj/adventjs-2023/blob/main/15-robot-autonomo.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/15)  |
+|  15   | [ ↔️ Robot autónomo ](https://github.com/mike-ssj/adventjs-2023/blob/main/15-robot-autonomo.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/15)  |
+|  16   | [ ❌ Despliegue en viernes ](https://github.com/mike-ssj/adventjs-2023/blob/main/16-despliegue-en-viernes.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/16)  |
 
 
 </p>
