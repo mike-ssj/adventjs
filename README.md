@@ -27,6 +27,7 @@
 |  15   | [ ↔️ Robot autónomo ](https://github.com/mike-ssj/adventjs-2023/blob/main/15-robot-autonomo.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/15)  |
 |  16   | [ ❌ Despliegue en viernes ](https://github.com/mike-ssj/adventjs-2023/blob/main/16-despliegue-en-viernes.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/16)  |
 |  17   | [ 🛷 Optimizando el alquiler ](https://github.com/mike-ssj/adventjs-2023/blob/main/17-optimizando-el-alquiler.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/17)  |
+|  18   | [ 🔢 El reloj digital ](https://github.com/mike-ssj/adventjs-2023/blob/main/18-el-reloj-digital.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/18)  |
 
 
 </p>
