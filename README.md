@@ -28,6 +28,7 @@
 |  16   | [ ❌ Despliegue en viernes ](https://github.com/mike-ssj/adventjs-2023/blob/main/16-despliegue-en-viernes.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/16)  |
 |  17   | [ 🛷 Optimizando el alquiler ](https://github.com/mike-ssj/adventjs-2023/blob/main/17-optimizando-el-alquiler.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/17)  |
 |  18   | [ 🔢 El reloj digital ](https://github.com/mike-ssj/adventjs-2023/blob/main/18-el-reloj-digital.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/18)  |
+|  19   | [ 💣 Enfrenta el sabotaje ](https://github.com/mike-ssj/adventjs-2023/blob/main/19-enfrenta-el-sabotaje.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/19)  |
 
 
 </p>
