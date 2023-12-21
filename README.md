@@ -30,6 +30,7 @@
 |  18   | [ 🔢 El reloj digital ](https://github.com/mike-ssj/adventjs-2023/blob/main/18-el-reloj-digital.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/18)  |
 |  19   | [ 💣 Enfrenta el sabotaje ](https://github.com/mike-ssj/adventjs-2023/blob/main/19-enfrenta-el-sabotaje.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/19)  |
 |  20   | [ 🏋️‍♂️ Distribuye el peso ](https://github.com/mike-ssj/adventjs-2023/blob/main/20-distribuye-el-peso.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/20)  |
+|  21   | [ 🪐 Mensaje binario ](https://github.com/mike-ssj/adventjs-2023/blob/main/21-mensaje-binario.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/21)  |
 
 </p>
 
