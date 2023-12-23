@@ -32,6 +32,7 @@
 |  20   | [ 🏋️‍♂️ Distribuye el peso ](https://github.com/mike-ssj/adventjs-2023/blob/main/20-distribuye-el-peso.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/20)  |
 |  21   | [ 🪐 Mensaje binario ](https://github.com/mike-ssj/adventjs-2023/blob/main/21-mensaje-binario.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/21)  |
 |  22   | [ 🚂 Lenguaje de programación ](https://github.com/mike-ssj/adventjs-2023/blob/main/22-lenguaje-de-programacion.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/22)  |
+|  23   | [ 🍽️ La comida de Navidad ](https://github.com/mike-ssj/adventjs-2023/blob/main/23-la-comida-de-navidad.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/23)  |
 
 </p>
 
