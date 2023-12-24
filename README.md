@@ -33,6 +33,7 @@
 |  21   | [ 🪐 Mensaje binario ](https://github.com/mike-ssj/adventjs-2023/blob/main/21-mensaje-binario.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/21)  |
 |  22   | [ 🚂 Lenguaje de programación ](https://github.com/mike-ssj/adventjs-2023/blob/main/22-lenguaje-de-programacion.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/22)  |
 |  23   | [ 🍽️ La comida de Navidad ](https://github.com/mike-ssj/adventjs-2023/blob/main/23-la-comida-de-navidad.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/23)  |
+|  24   | [ 🪜 Brincos en la escalera ](https://github.com/mike-ssj/adventjs-2023/blob/main/24-brincos-en-la-escalera.js) | [ 📃 Enunciado ](https://adventjs.dev/es/challenges/2023/24)  |
 
 </p>
 
